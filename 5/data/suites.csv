@@ -1,0 +1,2 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"Get weather info for London and verify that response contains actual info about temperature and humidity","11817","Get weather info for London","","Sun Oct 05 16:54:47 UTC 2025","passed","Sun Oct 05 16:54:59 UTC 2025","","","home.runner.work.weather_integration_test.weather_integration_test.tests.weather_test","TestGetWeather"

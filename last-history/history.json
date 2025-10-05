@@ -1,0 +1,1 @@
+{"b2ee818575382f8a56822bd2141fc6f5141bbfb6cc7cbfdcc87c53e6a2f69633":{"statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1},"items":[{"uid":"ca060286c2dc3c2a","reportUrl":"https://zheka156.github.io/weather_integration_test/4/#testresult/ca060286c2dc3c2a","status":"passed","time":{"start":1759682902369,"stop":1759682904024,"duration":1655}}]}}

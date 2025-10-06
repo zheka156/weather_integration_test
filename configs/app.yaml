@@ -1,0 +1,2 @@
+weatherClient:
+  url: "https://wttr.in/"
